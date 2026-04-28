@@ -1,9 +1,9 @@
 # AGI-119-Showcase
 This contains visuals of my Original architecture for AGI-therapist
 
-**Note: Because the underlying cognitive architecture of this system has been accepted for publication and presentation at the CE2CT-2026 Academic Conference, the source code is currently closed-source to protect intellectual property.
+**Note:** Because the underlying cognitive architecture of this system has been accepted for publication and presentation at the CE2CT-2026 Academic Conference, the source code is currently closed-source to protect intellectual property.
 
-I am actively seeking AI Solutions Architect / Engineering roles and am more than happy to do a live technical deep-dive, code walkthrough, or architecture screen-share via Zoom for hiring managers and technical interviewers. Please reach out via LinkedIn or Email to schedule.**
+I am actively seeking AI Solutions Architect / Engineering roles and am more than happy to do a live technical deep-dive, code walkthrough, or architecture screen-share via Zoom for hiring managers and technical interviewers. Please reach out via LinkedIn or Email to schedule.
 
 
 # AGI Therapist (AGI-119)
