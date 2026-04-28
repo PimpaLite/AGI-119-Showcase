@@ -88,7 +88,6 @@ MONGO_URI=xyz
 python app.py
 
 ```
-
 [![Live Demo](https://img.shields.io/badge/Live_Demo-Hosted_on_Azure-0078D4?style=for-the-badge&logo=microsoft-azure)](https://agitherapist.app/login?next=%2F)
 [![Python](https://img.shields.io/badge/Python-3.10+-3776AB?style=for-the-badge&logo=python&logoColor=white)]()
 [![PyTorch](https://img.shields.io/badge/PyTorch-Affective_LSTM-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)]()
@@ -117,5 +116,4 @@ AI Solutions Architect | B.Tech Computer Science (CCAI - IBM)
 * Advanced clinical conversation flow management.
 * Multi-language support.
 * Native voice synthesis (TTS) for AI responses.
-
 ```
