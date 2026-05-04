@@ -1,6 +1,8 @@
 # AGI-119-Showcase
 This contains visuals of my Original architecture for AGI-therapist
 
+[![AGI Therapist Architecture Demo](https://img.youtube.com/vi/79T2An-FHrc/maxresdefault.jpg)](https://youtu.be/79T2An-FHrc)
+
 **Note:** Because the underlying cognitive architecture of this system has been accepted for publication and presentation at the CE2CT-2026 Academic Conference, the source code is currently closed-source to protect intellectual property.
 
 I am actively seeking AI Solutions Architect / Engineering roles and am more than happy to do a live technical deep-dive, code walkthrough, or architecture screen-share via Zoom for hiring managers and technical interviewers. Please reach out via LinkedIn or Email to schedule.
@@ -108,7 +110,7 @@ Try it here: [https://agitherapist.app/login?next=%2F](https://agitherapist.app/
 Author
 Akshat Kashyap
 AI Solutions Architect | B.Tech Computer Science (CCAI - IBM)
-[LinkedIn Profile]( www.linkedin.com/in/akshat-kashyap-7868703b4 )
+[LinkedIn Profile](https://www.linkedin.com/in/akshat-kashyap-7868703b4)
 
 #Future Enhancements
 
