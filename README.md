@@ -108,7 +108,7 @@ Try it here: [https://agitherapist.app/login?next=%2F](https://agitherapist.app/
 Author
 Akshat Kashyap
 AI Solutions Architect | B.Tech Computer Science (CCAI - IBM)
-[LinkedIn Profile](linkedin.com/in/akshat-kashyap-7868703b4)
+[LinkedIn Profile](www.linkedin.com/in/akshat-kashyap-7868703b4)
 
 #Future Enhancements
 
