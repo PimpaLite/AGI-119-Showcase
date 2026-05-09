@@ -81,7 +81,7 @@ GEMINI_API_KEY=your_google_ai_studio_key
 PORT=5000
 LLM_MODEL=gemini-3-flash-preview
 MONGO_URI=xyz 
-
+FLASK_SECRET_KEY="super_secret_agi_key_119_do_not_share"
 ```
 
 ### 5. Run the Application
